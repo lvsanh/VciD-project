@@ -4,7 +4,7 @@ At the moment, there are ~100 Vietnamese students (PhD, master) in Delft. We alr
 
 # To Do
 
-- [ ] Brainstorm: _on our Tet holiday (Feb.2019_
+- [ ] Brainstorm: _on our Tet holiday (Feb.2019)_
 - [ ] Choose people: _who will code and implement this_
 - [ ] Next: _..._
 
